@@ -1,6 +1,6 @@
 # Hi, I'm Mesud 
 
-Full-stack developer from Addis Ababa, Ethiopia. I build AI assistants and data apps, and I'm studying Statistics at Addis Ababa University, so I care about numbers that can be explained and checked.
+Full-stack developer. I build AI assistants and data apps, and I'm studying Statistics at Addis Ababa University, so I care about numbers that can be explained and checked.
 
 ## What I work on
 
@@ -8,12 +8,6 @@ Full-stack developer from Addis Ababa, Ethiopia. I build AI assistants and data 
 - Dashboards and admin panels
 - REST APIs with authentication, validation and rate limiting
 - Online payments with Stripe
-
-## Featured projects
-
-- **[Askly](https://github.com/m3sudx/Askly)**: an embeddable AI chat widget with an owner dashboard. Visitors get cited answers in English or Amharic, and owners see usage, ratings and the questions the widget could not answer. Built with Next.js, TypeScript, Express, PostgreSQL (pgvector) and the Gemini API.
-- **Habesha Coffee**: an online coffee store with variants, carts, discount codes, orders and Stripe payments. Storefront in progress.
-- **StatSense** (planned): a web tool that checks uploaded data, chooses the right statistical test, and explains the result in plain language. Calculations run in Python.
 
 ## Tech
 
